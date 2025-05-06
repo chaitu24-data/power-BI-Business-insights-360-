@@ -1,6 +1,6 @@
-# power-BI-Business-insights-360-
-# Business-Insights-360
-# Live Dashboard : [Business Insights 360]()
+# power-BI-Business-insights-360
+
+# Live Dashboard : [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNjhmNGNhZTUtZmYxYS00NjhmLWFmMDItZDQwZDVjZjZjYmFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ### Home Page
 **View Objective:**
 
