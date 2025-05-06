@@ -57,7 +57,7 @@
 ### Executive View
 **View Objective:**
 
-1. Created a Dashboard for [Executive View](
+1. Created a Dashboard for [Executive View](https://github.com/chaitu24-data/power-BI-Business-insights-360-/blob/main/Executive%20view.png)
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin %, and Net Profit %.
 - **Revenue Distribution:** Donut Charts for Division and Channel Revenue Distribution.
