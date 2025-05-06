@@ -47,7 +47,7 @@
 ### Supply Chain View
 **View Objective:**
 
-1. Created a Dashboard for [Supply Chain View](
+1. Created a Dashboard for [Supply Chain View](https://github.com/chaitu24-data/power-BI-Business-insights-360-/blob/main/Marketing%20view.png)
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error, and ABS Error compared with their benchmark values.
 - **Accuracy/Net Error Trend:** Monthly Distribution of Net Error and Forecast Accuracy using Line and Clustered Column Chart.
