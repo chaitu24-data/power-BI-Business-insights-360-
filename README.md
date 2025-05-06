@@ -4,7 +4,7 @@
 ### Home Page
 **View Objective:**
 
-1. Created a [Home Page]() for the user to navigate to different views in the Dashboard.
+1. Created a [Home Page](https://github.com/chaitu24-data/power-BI-Business-insights-360-/blob/main/Home%20page.png) for the user to navigate to different views in the Dashboard.
 2. The Images have navigation to their respective Views.
 
 - **Last Refreshed Date:** Shows the last data when the database was refreshed.
