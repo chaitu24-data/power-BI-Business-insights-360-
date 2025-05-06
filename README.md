@@ -15,7 +15,7 @@
 ### Finance View
 **View Objective:**
 
-1. Created a Dashboard for [).
+1. Created a Dashboard for [Finance view](https://github.com/chaitu24-data/power-BI-Business-insights-360-/blob/main/Finance%20view.png).
 
 - **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin %, and Net Profit %, compared with their benchmark values (Last Year/Targets).
 - **Profit & Loss Statement:** A summary of a company's revenues, expenses, and profits/losses over a given period.
