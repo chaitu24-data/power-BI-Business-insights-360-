@@ -36,7 +36,7 @@
 ### Marketing View
 **View Objective:**
 
-1. Created a Dashboard for [Marketing View]().
+1. Created a Dashboard for [Marketing View](https://github.com/chaitu24-data/power-BI-Business-insights-360-/blob/main/Marketing%20view.png).
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit, and Net Profit %.
 - **Region/Market/Customer Performance:** Performance of a Customer distributed by Key metrics, filtered by Market or Region.
