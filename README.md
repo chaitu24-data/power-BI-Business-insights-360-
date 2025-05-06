@@ -25,7 +25,7 @@
 ### Sales View
 **View Objective:**
 
-1. Created a Dashboard for [Sales View]().
+1. Created a Dashboard for [Sales View](https://github.com/chaitu24-data/power-BI-Business-insights-360-/blob/main/sales%20view.png).
 
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin, and Gross Margin %.
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, and Gross Margin %.
